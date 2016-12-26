@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wx219"
+  id="myeclipse.1481615453323"
+  context-root="/wx219"
+  j2ee-spec="5.0"
+  archive="wx219.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
